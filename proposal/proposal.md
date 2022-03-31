@@ -13,14 +13,14 @@ The fantasy football community has long debated which positions are most valuabl
 My project could provide further and more advanced insight to help quantify the values of each position at a given draft pick in a fantasy football draft. 
 
 **Who is interested?**
-According to ESPN, 40 million people play fantasy football in the United States. 
+According to ESPN, forty million people play fantasy football in the United States. 
 Anyone who plays fantasy football and wants to win should be interested in optimizing their drafting strategy. 
 
 **What is known?**
 Originally, many thought that quarterbacks are the most valuable position because they score the most fantasy points and they are the most valuable in real football. 
 However, it is now widely accepted that running backs are the most valuable position in fantasy football because a top running back scores significantly more fantasy points than an average running back. 
-For example, the number 1 ranked running back, Jonathan Taylor, scored 22.8 fantasy points per week, whereas the number ten ranked running back Antonio Gibson, scored 13.8 fantasy points per week. 
-Likewise, the number 1 ranked quarterback, Josh Allen, scored 24.7 fantasy points per week, whereas the number ten ranked quarterback Dak Prescott, scored 19.7 fantasy points per week. 
+For example, the number one ranked running back, Jonathan Taylor, scored 22.8 fantasy points per week, whereas the number ten ranked running back Antonio Gibson, scored 13.8 fantasy points per week. 
+Likewise, the number one ranked quarterback, Josh Allen, scored 24.7 fantasy points per week, whereas the number ten ranked quarterback Dak Prescott, scored 19.7 fantasy points per week. 
 While Josh Allen may have averaged more fantasy points than Jonathan Taylor, his value is still lower because of his point total relative to the others at his position. 
 
 **References**
