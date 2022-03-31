@@ -9,7 +9,7 @@ In fantasy football, fantasy owners start the year by drafting their fantasy foo
 This is the most important day in the fantasy season because it determines who many of your key players are. 
 
 **Why is it interesting?**
-The fantasy football community has long debated which positions and fantasy football are most valuable (more on this later). 
+The fantasy football community has long debated which positions are most valuable (more on this later). 
 My project could provide further and more advanced insight to help quantify the values of each position at a given draft pick in a fantasy football draft. 
 
 **Who is interested?**
