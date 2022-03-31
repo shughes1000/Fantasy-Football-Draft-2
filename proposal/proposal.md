@@ -1,10 +1,10 @@
 # Proposal
 
 ### Problem Statement
-**Statement**
+**Statement**:
 What is the value of each position at a given draft pick in a fantasy football draft?
 
-**Background**
+**Background**:
 In fantasy football, fantasy owners start the year by drafting their fantasy football team. 
 This is the most important day in the fantasy season because it determines who many of your key players are. 
 
@@ -24,8 +24,8 @@ Likewise, the number 1 ranked quarterback, Josh Allen, scored 24.7 fantasy point
 While Josh Allen may have averaged more fantasy points than Jonathan Taylor, his value is still lower because of his point total relative to the others at his position. 
 
 **References**
-[ESPN Fantasy Football](https://www.espn.com/fantasy/football/)
-[FantasyPros Fantasy Football](https://www.fantasypros.com/nfl/)
+- [ESPN Fantasy Football](https://www.espn.com/fantasy/football/)
+- [FantasyPros Fantasy Football](https://www.fantasypros.com/nfl/)
 
 ### Data
 All of the data I need can be found on FantasyPro's website. For example, https://www.fantasypros.com/nfl/reports/leaders/ppr.php?year=2019&start=1&end=16 has information on every single fantasy football player who scored in 2019. 
