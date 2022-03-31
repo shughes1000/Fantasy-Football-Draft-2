@@ -35,7 +35,7 @@ To get the information from different years, I can simply adjust the year in the
 ### Analytic Tasks
 This is a project that I originally completed my senior year of high school, and I try to update it as I learn more about statistics and machine learning. 
 My most recent version of the project can be found [here](https://github.com/shughes1000/Fantasy-Football-Draft). 
-I think I can improve on this project by using the rankings the were given from different fantasy football websites as predictors, as well as my newfounded knowledge that I have acquired in this class. 
+I think I can improve on this project by using the rankings that were given from different fantasy football websites as predictors, as well as my newfounded knowledge that I have acquired in this class. 
 I will use splines to determine the expected number of fantasy points for a given player based on the information a fantasy owner would have on draft day. 
 From here, we can take the derivative of this to determine the expected value of the fantasy position at a given point in the draft. 
 After we do this, we can graph our results to visualize our findings in a way that fantasy owners would be able to understand. 
